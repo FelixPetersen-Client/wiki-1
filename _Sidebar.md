@@ -1,3 +1,3 @@
-* [Home](wiki)
+* [Home](/)
 * Workflows
   * [Paper](Paper-Workflow)
