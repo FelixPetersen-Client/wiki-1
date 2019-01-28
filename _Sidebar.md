@@ -1,5 +1,5 @@
 <ul>
-  <li>Top level page
+  <li>[Home](/)
     <ul>
       <li>Sub-page</li>
       <li>Sub-page two</li>
