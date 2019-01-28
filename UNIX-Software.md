@@ -1,1 +1,1 @@
-On this page, I recommend different UNIX software and provide cheat-sheets, tips, and tricks.
+On this page, I recommend different UNIX tools and provide cheat-sheets, tips, and tricks.
