@@ -19,9 +19,14 @@ git commit
 * `git commit`
 * `git push`
 
-If no conflict:
-```
+#### If no conflict:
+```sh
 git pull
 git pull wiki.wiki HEAD
 git push
 ```
+
+#### Alias
+`git config alias.syncwiki '!git pull && git pull wiki.wiki HEAD && git push'`
+
+**`git syncwiki`**
