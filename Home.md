@@ -22,5 +22,3 @@ You are welcome to contribute to the wiki!
   * [TAU](TAU)
   * [Podcasts](Podcasts)
   * [MetaWiki](MetaWiki)
-
-;)
