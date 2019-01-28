@@ -1,4 +1,4 @@
-[//]: # (Please copy changes to Home.)
+[//]: # (Everything from the second line will be copied to Home.)
 * [Home](Home)
 * Workflows
   * [Coding](Coding-Workflow)
