@@ -18,3 +18,10 @@ git commit
 * resolve conflicts
 * `git commit`
 * `git push`
+
+If no conflict:
+```
+git pull
+git pull wiki.wiki HEAD
+git push
+```
