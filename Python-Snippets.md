@@ -6,6 +6,6 @@ pip install torch torchvision numpy matplotlib scikit-image
 ```
 Specify package-versions as follows: `numpy==1.15.4`
 
-##Packaging
+## Packaging
 
-##Argparse
+## Argparse 
