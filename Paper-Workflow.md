@@ -7,7 +7,7 @@ For my paper writing flow, I use the following software:
   * Just store the papers referenced to in Evernote
   * Annotate the papers using external PDF Reader (Acrobat Reader / Preview)
   * I personally **prefer** Mendeley over Zotero because it has mobile apps and 2GB instead of 300MB of free storage
-* XMind ZEN ([Docear](http://www.docear.org) is older but has way more features)
+* XMind ZEN :) ([Docear](http://www.docear.org) is older but has way more features)
   * Organize the papers w.r.t. various attributes in a **mind map**
 * [texStudio](https://www.texstudio.org) ([Overleaf v2](https://www.overleaf.com?r=a5d42ee0&rm=d&rs=b)<sup id="a2">[2](#b2)</sup> as an online alternative)
   * Write the Paper
