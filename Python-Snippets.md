@@ -8,8 +8,4 @@ Specify package-versions as follows: `numpy==1.15.4`
 
 ## Packaging
 
-<<<<<<< HEAD
 ## Argparse 
-=======
-## Argparse 
->>>>>>> wiki.wiki/master
