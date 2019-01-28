@@ -25,9 +25,21 @@ git pull
 git pull wiki.wiki HEAD
 git push
 ```
+Or with \_Sidebar update:
+```sh
+git pull
+git pull wiki.wiki HEAD
+sed "/Copy of \_Sidebar\. Do \*\*not\*\* change/q" Home.md > _tmp_Home.md
+sed -E "1d" _Sidebar.md >> _tmp_Home.md
+mv _tmp_Home.md Home.md
+git add Home.md
+git commit -m "🤖 Auto-update Home.md"
+git push
+```
 
-#### Alias
-`git config alias.syncwiki '!git pull && git pull wiki.wiki HEAD && git push'`
+#### Aliases
+* `git config alias.syncwiki '!git pull && git pull wiki.wiki HEAD && git push'`
+* `git config alias.syncwiki '!git pull && git pull wiki.wiki HEAD && sed "/Copy of \_Sidebar\. Do \*\*not\*\* change/q" Home.md > _tmp_Home.md && sed -E "1d" _Sidebar.md >> _tmp_Home.md && mv _tmp_Home.md Home.md && git add Home.md && { git commit -m "🤖 Auto-update Home.md" ; git push; }'`
 
 **`git syncwiki`**
 
