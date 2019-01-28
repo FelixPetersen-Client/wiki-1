@@ -30,3 +30,5 @@ git push
 `git config alias.syncwiki '!git pull && git pull wiki.wiki HEAD && git push'`
 
 **`git syncwiki`**
+
+`.zshrc`: `alias syncwiki="cd ~/Documents/wiki/wiki && git syncwiki"`
