@@ -11,4 +11,5 @@ I use gollum for hosting this wiki.
 
 * `git pull`
 * `git pull wiki.wiki HEAD`
+* resolve conflicts
 * `git push`
